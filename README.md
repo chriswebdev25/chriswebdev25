@@ -1,6 +1,7 @@
 ## **Hi there - this is Chris, starting the web dev bootcamp** ✨
 
 I´m a social worker turned web dev student, looking forward to learn how to code 
+
 When not in front of a PC, i like to walk in forests with my dog 🌱
 <!--
 **chriswebdev25/chriswebdev25** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
