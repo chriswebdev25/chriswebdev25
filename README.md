@@ -4,7 +4,8 @@ I´m a social worker turned web dev student, looking forward to learn how to cod
 
 When not in front of a PC, i like to walk in *forests with my dog* 🌱
 
-! [the woods] (Buchenwald_Frühling.JPG) 
+![Buchenwald_Frühling](https://github.com/user-attachments/assets/5f18bbf2-6d2a-48ea-81f5-7dd59a9b00a4)
+
 <!--
 **chriswebdev25/chriswebdev25** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
