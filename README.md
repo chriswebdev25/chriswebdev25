@@ -10,15 +10,6 @@ When not in front of a PC, i like to walk in *forests with my dog* 🌱
 2. learning on mac
 3. learning in linux
 
-´´´
-{
-"first name": "Chris",
-"last name": "A",
-"age": "unknown"
-}
-´´´
-
-
 
 <!--
 **chriswebdev25/chriswebdev25** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
