@@ -1,4 +1,4 @@
-## Hi there - this is a test repository
+## **Hi there - this is me, starting the web dev bootcamp**
 
 <!--
 **chriswebdev25/chriswebdev25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
